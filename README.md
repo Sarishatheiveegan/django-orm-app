@@ -45,7 +45,8 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT
-![output](image.png)
+
+![image](https://github.com/Sarishatheiveegan/django-orm-app/assets/144979465/c0e6e9d2-8410-4f70-8e54-4d7e70995073)
 
 ## RESULT
 Thus the program executed successfully.
