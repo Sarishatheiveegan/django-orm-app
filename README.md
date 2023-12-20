@@ -46,8 +46,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](image.png)
-
+![output](image.png)
 
 ## RESULT
 Thus the program executed successfully.
