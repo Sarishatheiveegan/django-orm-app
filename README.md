@@ -45,7 +45,6 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT
-
 ![output](image.png)
 
 ## RESULT
